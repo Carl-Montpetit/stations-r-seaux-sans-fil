@@ -1,0 +1,12 @@
+# exe
+tp1
+# files
+*.txt
+*.o
+*.plist
+# Directories
+.idea
+.vscode
+cmake-build-debug
+tp1.dSYM/Contents/Resources/DWARF/
+/tests
